@@ -4,7 +4,7 @@ A [TextMate][] theme based on the [Underwater][] theme for Komodo IDE, by Dmitry
 
 I tweaked things a bit for textmate, and also decreased the contrast a bit.
 
-![screenshot](http://github.com/jhickner/Underwater.tmTheme/raw/master/screenshot.jpg)
+![screenshot](https://github.com/jhickner/Underwater.tmTheme/raw/46d78c8e35954f3cc1bdc48c9d592854333da2dd/screenshot.jpg)
 
 ## Installation
 
